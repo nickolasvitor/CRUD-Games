@@ -7,3 +7,5 @@ Nesse CRUD usei:
 -Armazenamento de dados em arquivo CSV (Leitura e escrita)
 -Ordenação de dados por ID
 -Modularização do código
+
+obs: Caso deseje rodar o programa, todos os arquivos tem que estar na mesma pasta. Do mesmo jeito que se encontra aqui.
